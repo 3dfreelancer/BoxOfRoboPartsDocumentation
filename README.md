@@ -12,3 +12,4 @@ photoelectric sensors marked "SUNX 6D PIVHL24-R could be like SUNX PM24 series
 
 Quickstop QS-7 pneumatic pressure loss collision detector
 
+All probably from: "Siemens DPC Robotic Automated Sample Management System Immulite 2000"
