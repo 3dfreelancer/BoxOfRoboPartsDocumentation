@@ -25,3 +25,9 @@ All probably from: "Siemens DPC Robotic Automated Sample Management System Immul
 
 ALSO:
 
+Control Point (trajectory generators) x 4
+https://www.teknic.com/files/product_info/TG540_V2.3.pdf
+
+Drives: Teknic SS-1500-ACX-2-0-9 x 8
+https://en.industryarena.com/forum/showthread.php?t=8006&page=4&s=09ffc600c8a058577614c5550a634f5b
+ACX's are analog in only, so you'll have to switch the control side to analog
