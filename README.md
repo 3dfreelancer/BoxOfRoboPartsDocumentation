@@ -31,3 +31,15 @@ https://www.teknic.com/files/product_info/TG540_V2.3.pdf
 Drives: Teknic SS-1500-ACX-2-0-9 x 8
 https://en.industryarena.com/forum/showthread.php?t=8006&page=4&s=09ffc600c8a058577614c5550a634f5b
 ACX's are analog in only, so you'll have to switch the control side to analog
+
+ALSO:
+
+Steppermotors with encoders and controlboard
+Mdrive 17 plus microstepping x 2 (might be slightly different)
+MDM1CSZ17A4-E2
+Other version of this: http://motion.schneider-electric.com/products/mdrive/mdrive_plus_motion_control.php?nema=17
+http://www.kocomotion.de/produkte/schrittmotoren-mit-integrierter-steuerung-mdrive/mdrive-17/plus-microstepping.html
+Mounted with toothed bar with physical stops and sensorboard on one end only:
+DPC S/N: blank, REV: A2, ASY: 450128
+(picture of prod.no: http://www.kocomotion.de/typo3temp/pics/84241d6633.jpg)
+
